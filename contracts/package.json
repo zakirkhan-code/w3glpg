@@ -1,0 +1,19 @@
+{
+  "name": "W3GLPG",
+  "version": "1.0.0",
+  "description": "Web3 Game Platform Smart Contracts for Roulette, Blackjack, Slot Machine",
+  "main": "hardhat.config.js",
+  "scripts": {
+    "compile": "npx hardhat compile",
+    "deploy": "node scripts/deploy.js",
+    "test": "npx hardhat test"
+  },
+  "dependencies": {
+    "@nomiclabs/hardhat-waffle": "^2.0.0",
+    "ethers": "^5.7.0",
+    "hardhat": "^2.12.0"
+  },
+  "devDependencies": {},
+  "author": "Your Name",
+  "license": "MIT"
+}
