@@ -1,5 +1,5 @@
 
-
+Zakir
 # W3GLPG Platform 🚀🎮
 
 Welcome to **W3GLPG**, a modern gaming platform built with React and Node.js, currently operating in a Web2 environment. Our mission is to leverage blockchain technology to enhance transparency, fairness, and ownership in gaming experiences as we prepare to integrate with EVM-compatible networks.
